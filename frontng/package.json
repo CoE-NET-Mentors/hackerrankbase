@@ -1,6 +1,6 @@
 {
   "name": "frontng",
-  "version": "0.0.0",
+  "version": "2024.05.31",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
